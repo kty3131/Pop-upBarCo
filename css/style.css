@@ -108,7 +108,7 @@ ul{
   position: absolute;
   top: 20px;
   left: 283px;
-  z-index: 2;
+  z-index: 100px;
   display: none;
 }
 header{
@@ -224,7 +224,6 @@ footer article{
   padding-top: 5px;
   margin-bottom: 5px;
 }
-
 
 
 
