@@ -30,7 +30,7 @@
 	position: relative;
 	top: 40%;
 	height: 60%;
-	font-size: 54px;
+	font-size: 50px;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
 }
@@ -46,9 +46,9 @@
 
 .overlay ul li {
 	display: block;
-	height: 20%;
+	height: 15%;
 	height: calc(100% / 5);
-	min-height: 54px;
+	min-height: 50px;
 }
 
 .overlay ul li a {
